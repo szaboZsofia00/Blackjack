@@ -1,0 +1,22 @@
+THE PACK
+The Blackjack game, also known as Twenty-One is a well-known casino game. The game is played by the standard 52-card pack. Depending on the casino 1 to 8 decks shuffled together, the most popular is the 6 deck version.
+
+THE VALUE
+In Blackjack each player plays against the dealer so it's basically a one-player game. The goal is to be closer to 21 (without going over it) than the dealer. Each card has a value. The numbered card are equvalent with their number, the face cards are 10, the Ace is a special card it worth 1 or 11, depending on what better for the participant.
+
+THE GAME
+Before the deal begins the player places their bet. After placing the bet each participant gets an face-uped card, than another faced up card except the dealer whose second card is face-down. If the player's first two cards are an Ace and a 10-valued card than the palyer automatically won with a so called Blackjack. Otherwise the player can choose a move (see MOVES). After the player stand, starts the dealer's round. In most casinos the dealer must draw a card on 16 (value) and stop on 17 (value). After this the game is evaluated.
+
+MOVES
+ - HIT: the participant draw a card.
+ - STAND: the participant stops their round. No more cards dealt for them.
+ - DOUBLE DOWN: the player's drawn exactly one card, than their round end. In this case the player original bet is doubled. Double the danger, double the profit. Only can make this move after the first two cards.
+ - SPLIT: if the player's first two cards are of the same value (in some casinos only same ránk counts), the player can split their hands. This means they treat each card as different hand. Both of them gets a new card and the player can choose their move for each hand. After splitting the bet is doubled. Each hand with the same bet. They are handled seperately.
+ - SURRENDER: after dealing the starting hands the player can choose to give up their round (for example if they think the dealer has a Blackjack and they don't). In this case the player gets back half of their bets and the game round ends.
+
+EVALUATION AND PAY OUTS
+The best case for the player is the Blackjack, an Ace and a 10-valued card as starting cards. This means they automatically won. The payout is 3:2 so they win 1.5 * bet. They also gets back their bet.
+In any other case if the dealer has a Blackjack and the player doesn't, the player lost (lose their bet).
+If the player's hand's value is bigger than the dealer's, they won. Their winning is equivalent with their bet (also gets back their bet). If its lower they lose. If they are equivalent it's a tie. The player won't win anything, just gets back their bet.
+If the player surround, they get back only half their bets (and only that).
+
